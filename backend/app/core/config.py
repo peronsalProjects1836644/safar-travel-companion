@@ -14,7 +14,7 @@ class Settings(BaseSettings):
     environment: str = "development"
     timezone: str = "Asia/Karachi"
     cors_origins: str = "http://localhost:5173,http://127.0.0.1:5173"
-    # Set true on Render/Vercel style hosts that sit behind one trusted proxy.
+    # Set true on Vercel style hosts that sit behind one trusted proxy.
     trust_proxy: bool = False
 
     # Database
