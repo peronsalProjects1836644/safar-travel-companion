@@ -1,0 +1,18 @@
+{
+  "_note": "Names of large, well known hospitals only, no coordinates or phone numbers. The app opens them through a map search, so a wrong coordinate can never send someone to the wrong place. Confirm the list before going live.",
+  "Lahore": ["Mayo Hospital", "Services Hospital", "Jinnah Hospital", "Sheikh Zayed Hospital", "Ittefaq Hospital"],
+  "Karachi": ["Civil Hospital Karachi", "Jinnah Postgraduate Medical Centre", "Aga Khan University Hospital", "Dow University Hospital", "Liaquat National Hospital"],
+  "Islamabad": ["Pakistan Institute of Medical Sciences (PIMS)", "Shifa International Hospital", "Polyclinic Hospital", "Kulsum International Hospital"],
+  "Peshawar": ["Lady Reading Hospital", "Khyber Teaching Hospital", "Hayatabad Medical Complex"],
+  "Multan": ["Nishtar Hospital", "Mukhtar A. Sheikh Hospital"],
+  "Bahawalpur": ["Bahawal Victoria Hospital"],
+  "Quetta & Ziarat": ["Civil Hospital Quetta", "Bolan Medical Complex Hospital", "Combined Military Hospital Quetta"],
+  "Hunza": ["Aga Khan Medical Centre Aliabad Hunza", "Combined Military Hospital Gilgit"],
+  "Gilgit": ["District Headquarters Hospital Gilgit", "Combined Military Hospital Gilgit", "Aga Khan Medical Centre Gilgit"],
+  "Skardu": ["District Headquarters Hospital Skardu", "Combined Military Hospital Skardu"],
+  "Swat": ["Saidu Group of Teaching Hospitals"],
+  "Chitral": ["District Headquarters Hospital Chitral", "Combined Military Hospital Chitral"],
+  "Naran Kaghan": ["Ayub Teaching Hospital Abbottabad", "District Headquarters Hospital Mansehra"],
+  "Murree & Galyat": ["Ayub Teaching Hospital Abbottabad", "Combined Military Hospital Murree"],
+  "Neelum & Muzaffarabad": ["Abbas Institute of Medical Sciences Muzaffarabad", "Combined Military Hospital Muzaffarabad"]
+}

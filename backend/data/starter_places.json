@@ -1,0 +1,1912 @@
+[
+ {
+  "name": "Badshahi Mosque",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "religious",
+  "query": "Badshahi Mosque, Lahore, Pakistan",
+  "description": "Seventeenth-century Mughal mosque with a vast courtyard and red sandstone domes.",
+  "price_level": 0,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "mughal",
+   "mosque"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Lahore Fort",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "heritage",
+  "query": "Lahore Fort, Lahore, Pakistan",
+  "description": "Walled Mughal citadel with palaces, gardens and the Sheesh Mahal.",
+  "price_level": 1,
+  "avg_visit_minutes": 100,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "mughal",
+   "fort"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Shalimar Gardens",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "parks",
+  "query": "Shalimar Gardens, Lahore, Pakistan",
+  "description": "Terraced Mughal garden with fountains and pavilions, a UNESCO World Heritage Site.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "mughal",
+   "garden"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Wazir Khan Mosque",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "religious",
+  "query": "Wazir Khan Mosque, Lahore, Pakistan",
+  "description": "Mosque in the Walled City known for its detailed tile work and frescoes.",
+  "price_level": 1,
+  "avg_visit_minutes": 50,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "mughal",
+   "mosque",
+   "tilework"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Minar-e-Pakistan",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "parks",
+  "query": "Minar-e-Pakistan, Lahore, Pakistan",
+  "description": "Tall national monument set in Greater Iqbal Park, popular in the evening.",
+  "price_level": 0,
+  "avg_visit_minutes": 45,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "monument",
+   "park"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Lahore Museum",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "museums",
+  "query": "Lahore Museum, Lahore, Pakistan",
+  "description": "One of the country's largest museums, with Gandhara sculpture and Mughal art.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "gandhara",
+   "art"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Jahangir's Tomb",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "heritage",
+  "query": "Tomb of Jahangir, Shahdara, Lahore, Pakistan",
+  "description": "Mughal mausoleum of Emperor Jahangir set in a quiet garden.",
+  "price_level": 1,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "mughal",
+   "tomb"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Fort Road Food Street",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "food",
+  "query": "Fort Road Food Street, Lahore, Pakistan",
+  "description": "Rooftop food street facing the Badshahi Mosque, best after sunset.",
+  "price_level": 2,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "dinner",
+   "views"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Anarkali Bazaar",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "shopping",
+  "query": "Anarkali Bazaar, Lahore, Pakistan",
+  "description": "Old market district for clothing, jewellery and street food.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "bazaar",
+   "walking"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Wagah Border Ceremony",
+  "destination": "Lahore",
+  "region": "Punjab",
+  "category": "family",
+  "query": "Wagah Border, Lahore, Pakistan",
+  "description": "Daily flag-lowering ceremony at the India border with drills and crowds.",
+  "price_level": 0,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "ceremony",
+   "evening"
+  ],
+  "advisory": "Arrive early and carry ID. Timings change by season.",
+  "verified": false
+ },
+ {
+  "name": "Faisal Mosque",
+  "destination": "Islamabad",
+  "region": "Islamabad Capital Territory",
+  "category": "religious",
+  "query": "Faisal Mosque, Islamabad, Pakistan",
+  "description": "Large modern mosque at the foot of the Margalla Hills.",
+  "price_level": 0,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "mosque",
+   "landmark"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Daman-e-Koh",
+  "destination": "Islamabad",
+  "region": "Islamabad Capital Territory",
+  "category": "nature",
+  "query": "Daman-e-Koh, Islamabad, Pakistan",
+  "description": "Hillside viewpoint over Islamabad with walking paths and cafes.",
+  "price_level": 0,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "viewpoint",
+   "walk"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Pakistan Monument",
+  "destination": "Islamabad",
+  "region": "Islamabad Capital Territory",
+  "category": "heritage",
+  "query": "Pakistan Monument, Islamabad, Pakistan",
+  "description": "Petal-shaped national monument with a small museum.",
+  "price_level": 1,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "monument",
+   "museum"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Lok Virsa Museum",
+  "destination": "Islamabad",
+  "region": "Islamabad Capital Territory",
+  "category": "museums",
+  "query": "Lok Virsa Museum, Islamabad, Pakistan",
+  "description": "Museum of Pakistani folk heritage, crafts and regional life.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "culture",
+   "crafts"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Rawal Lake View Point",
+  "destination": "Islamabad",
+  "region": "Islamabad Capital Territory",
+  "category": "lakes",
+  "query": "Rawal Lake View Point, Islamabad, Pakistan",
+  "description": "Lakeside park with boating and a quiet evening promenade.",
+  "price_level": 0,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "lake",
+   "sunset"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Saidpur Village",
+  "destination": "Islamabad",
+  "region": "Islamabad Capital Territory",
+  "category": "heritage",
+  "query": "Saidpur Village, Islamabad, Pakistan",
+  "description": "Restored village with old temples, craft shops and restaurants.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "village",
+   "dinner"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Taxila Museum",
+  "destination": "Islamabad",
+  "region": "Islamabad Capital Territory",
+  "category": "museums",
+  "query": "Taxila Museum, Taxila, Pakistan",
+  "description": "Museum of Gandhara Buddhist art near the ancient Taxila ruins.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "gandhara",
+   "buddhist"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Rohtas Fort",
+  "destination": "Jhelum",
+  "region": "Punjab",
+  "category": "heritage",
+  "query": "Rohtas Fort, Jhelum, Pakistan",
+  "description": "Large sixteenth-century fort with massive gates, a UNESCO World Heritage Site.",
+  "price_level": 1,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "fort",
+   "sher shah suri"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Katas Raj Temples",
+  "destination": "Jhelum",
+  "region": "Punjab",
+  "category": "religious",
+  "query": "Katas Raj Temples, Chakwal, Pakistan",
+  "description": "Ancient Hindu temple complex around a sacred pond in the Salt Range.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "temple",
+   "pond"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Khewra Salt Mine",
+  "destination": "Jhelum",
+  "region": "Punjab",
+  "category": "adventure",
+  "query": "Khewra Salt Mine, Khewra, Pakistan",
+  "description": "Guided tours through salt tunnels, chambers and carved displays.",
+  "price_level": 2,
+  "avg_visit_minutes": 90,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "mine",
+   "tour"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Mazar-e-Quaid",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "heritage",
+  "query": "Mazar-e-Quaid, Karachi, Pakistan",
+  "description": "White marble mausoleum of Muhammad Ali Jinnah.",
+  "price_level": 0,
+  "avg_visit_minutes": 50,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "monument",
+   "mausoleum"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Mohatta Palace",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "museums",
+  "query": "Mohatta Palace Museum, Karachi, Pakistan",
+  "description": "Pink sandstone palace housing an art museum.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "palace",
+   "art"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Frere Hall",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "heritage",
+  "query": "Frere Hall, Karachi, Pakistan",
+  "description": "Colonial-era hall set in a garden, used for events and exhibitions.",
+  "price_level": 0,
+  "avg_visit_minutes": 45,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "colonial",
+   "garden"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Clifton Beach",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "beaches",
+  "query": "Clifton Beach, Karachi, Pakistan",
+  "description": "City beach with food stalls, camel rides and evening crowds.",
+  "price_level": 0,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "beach",
+   "sunset"
+  ],
+  "advisory": "Swimming can be unsafe because of strong currents.",
+  "verified": false
+ },
+ {
+  "name": "Hawke's Bay Beach",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "beaches",
+  "query": "Hawke's Bay Beach, Karachi, Pakistan",
+  "description": "Long sandy beach west of the city, quieter than Clifton.",
+  "price_level": 0,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "beach",
+   "family"
+  ],
+  "advisory": "Swimming can be unsafe because of strong currents.",
+  "verified": false
+ },
+ {
+  "name": "Burns Road Food Street",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "food",
+  "query": "Burns Road, Karachi, Pakistan",
+  "description": "Old city street known for nihari, kebabs and sweets.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "street food",
+   "dinner"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Empress Market",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "shopping",
+  "query": "Empress Market, Karachi, Pakistan",
+  "description": "Victorian-era market building with spices, produce and household goods.",
+  "price_level": 1,
+  "avg_visit_minutes": 60,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "market",
+   "colonial"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "National Museum of Pakistan",
+  "destination": "Karachi",
+  "region": "Sindh",
+  "category": "museums",
+  "query": "National Museum of Pakistan, Karachi, Pakistan",
+  "description": "Collections from the Indus Valley period to the modern era.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "history",
+   "indus"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Makli Necropolis",
+  "destination": "Thatta",
+  "region": "Sindh",
+  "category": "heritage",
+  "query": "Makli Necropolis, Thatta, Pakistan",
+  "description": "Huge hilltop graveyard with tombs from several centuries, a UNESCO World Heritage Site.",
+  "price_level": 1,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "tombs",
+   "unesco"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Shah Jahan Mosque",
+  "destination": "Thatta",
+  "region": "Sindh",
+  "category": "religious",
+  "query": "Shah Jahan Mosque, Thatta, Pakistan",
+  "description": "Seventeenth-century mosque famous for its blue tilework and many domes.",
+  "price_level": 1,
+  "avg_visit_minutes": 50,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "mosque",
+   "tilework"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Keenjhar Lake",
+  "destination": "Thatta",
+  "region": "Sindh",
+  "category": "lakes",
+  "query": "Keenjhar Lake, Thatta, Pakistan",
+  "description": "Large freshwater lake popular for boating and picnics.",
+  "price_level": 1,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "lake",
+   "boating"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Mohenjo-daro",
+  "destination": "Larkana",
+  "region": "Sindh",
+  "category": "heritage",
+  "query": "Mohenjo-daro, Larkana, Pakistan",
+  "description": "Ruins of a major Indus Valley city, a UNESCO World Heritage Site.",
+  "price_level": 1,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "indus valley",
+   "ruins"
+  ],
+  "advisory": "Very hot in summer. Visit between November and March.",
+  "verified": false
+ },
+ {
+  "name": "Qissa Khwani Bazaar",
+  "destination": "Peshawar",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "shopping",
+  "query": "Qissa Khwani Bazaar, Peshawar, Pakistan",
+  "description": "Historic storytellers' bazaar with tea houses and traditional food.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "bazaar",
+   "food"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Peshawar Museum",
+  "destination": "Peshawar",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "museums",
+  "query": "Peshawar Museum, Peshawar, Pakistan",
+  "description": "Large collection of Gandhara Buddhist sculpture.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "gandhara",
+   "art"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Bala Hisar Fort",
+  "destination": "Peshawar",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "heritage",
+  "query": "Bala Hisar Fort, Peshawar, Pakistan",
+  "description": "Old hilltop fort overlooking the city.",
+  "price_level": 0,
+  "avg_visit_minutes": 45,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "fort"
+  ],
+  "advisory": "Access can be restricted because it is in active use.",
+  "verified": false
+ },
+ {
+  "name": "Mahabat Khan Mosque",
+  "destination": "Peshawar",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "religious",
+  "query": "Mahabat Khan Mosque, Peshawar, Pakistan",
+  "description": "Mughal-era mosque in the old city with a tall courtyard.",
+  "price_level": 0,
+  "avg_visit_minutes": 40,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "mughal",
+   "mosque"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Khyber Pass Viewpoint",
+  "destination": "Peshawar",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "adventure",
+  "query": "Khyber Pass, Pakistan",
+  "description": "Historic mountain pass on the route to Afghanistan.",
+  "price_level": 0,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "history",
+   "drive"
+  ],
+  "advisory": "Travel may need a permit and escort. Check with local authorities first.",
+  "verified": false
+ },
+ {
+  "name": "Shrine of Shah Rukn-e-Alam",
+  "destination": "Multan",
+  "region": "Punjab",
+  "category": "religious",
+  "query": "Tomb of Shah Rukn-e-Alam, Multan, Pakistan",
+  "description": "Fourteenth-century tomb with a large brick dome and blue tilework.",
+  "price_level": 0,
+  "avg_visit_minutes": 50,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "shrine",
+   "tilework"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Shrine of Bahauddin Zakariya",
+  "destination": "Multan",
+  "region": "Punjab",
+  "category": "religious",
+  "query": "Shrine of Bahauddin Zakariya, Multan, Pakistan",
+  "description": "Major Sufi shrine in Multan's old fort area.",
+  "price_level": 0,
+  "avg_visit_minutes": 45,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "sufi",
+   "shrine"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Multan Fort Qasim Bagh",
+  "destination": "Multan",
+  "region": "Punjab",
+  "category": "heritage",
+  "query": "Qasim Bagh Stadium Multan Fort, Multan, Pakistan",
+  "description": "Remains of the old fort, with a park and viewing area.",
+  "price_level": 0,
+  "avg_visit_minutes": 45,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "fort",
+   "park"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Noor Mahal",
+  "destination": "Bahawalpur",
+  "region": "Punjab",
+  "category": "heritage",
+  "query": "Noor Mahal, Bahawalpur, Pakistan",
+  "description": "Nineteenth-century palace with Italianate rooms.",
+  "price_level": 1,
+  "avg_visit_minutes": 60,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "palace"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Derawar Fort",
+  "destination": "Bahawalpur",
+  "region": "Punjab",
+  "category": "heritage",
+  "query": "Derawar Fort, Bahawalpur, Pakistan",
+  "description": "Large square fort with tall bastions in the Cholistan desert.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring"
+  ],
+  "tags": [
+   "fort",
+   "desert"
+  ],
+  "advisory": "Remote desert road. Travel in daylight with enough fuel and water.",
+  "verified": false
+ },
+ {
+  "name": "Lal Suhanra National Park",
+  "destination": "Bahawalpur",
+  "region": "Punjab",
+  "category": "nature",
+  "query": "Lal Suhanra National Park, Bahawalpur, Pakistan",
+  "description": "Park with desert, forest and wetland habitats.",
+  "price_level": 1,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "wildlife",
+   "park"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Kund Malir Beach",
+  "destination": "Makran Coast",
+  "region": "Balochistan",
+  "category": "beaches",
+  "query": "Kund Malir Beach, Balochistan, Pakistan",
+  "description": "Wide empty beach along the Makran Coastal Highway.",
+  "price_level": 0,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "beach",
+   "road trip"
+  ],
+  "advisory": "Remote area with few services. Carry water and fuel.",
+  "verified": false
+ },
+ {
+  "name": "Hingol National Park",
+  "destination": "Makran Coast",
+  "region": "Balochistan",
+  "category": "nature",
+  "query": "Hingol National Park, Balochistan, Pakistan",
+  "description": "Large national park with rock formations such as the Princess of Hope.",
+  "price_level": 1,
+  "avg_visit_minutes": 150,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "park",
+   "rock formations"
+  ],
+  "advisory": "Remote area with few services. Carry water and fuel.",
+  "verified": false
+ },
+ {
+  "name": "Princess of Hope",
+  "destination": "Makran Coast",
+  "region": "Balochistan",
+  "category": "nature",
+  "query": "Princess of Hope, Balochistan, Pakistan",
+  "description": "Natural rock formation resembling a standing figure beside the highway.",
+  "price_level": 0,
+  "avg_visit_minutes": 30,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "rock formation",
+   "roadside"
+  ],
+  "advisory": "Remote area with few services. Carry water and fuel.",
+  "verified": false
+ },
+ {
+  "name": "Hanna Lake",
+  "destination": "Quetta & Ziarat",
+  "region": "Balochistan",
+  "category": "lakes",
+  "query": "Hanna Lake, Quetta, Pakistan",
+  "description": "Small reservoir with boating, a short drive from Quetta.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "lake",
+   "boating"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Ziarat Residency",
+  "destination": "Quetta & Ziarat",
+  "region": "Balochistan",
+  "category": "heritage",
+  "query": "Quaid-e-Azam Residency, Ziarat, Pakistan",
+  "description": "Wooden colonial residence where Jinnah spent his last days.",
+  "price_level": 1,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "colonial",
+   "history"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Ziarat Juniper Forest",
+  "destination": "Quetta & Ziarat",
+  "region": "Balochistan",
+  "category": "nature",
+  "query": "Ziarat Juniper Forest, Ziarat, Pakistan",
+  "description": "One of the world's oldest and largest juniper forests.",
+  "price_level": 0,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "forest",
+   "hiking"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Baltit Fort",
+  "destination": "Hunza",
+  "region": "Gilgit-Baltistan",
+  "category": "heritage",
+  "query": "Baltit Fort, Karimabad, Hunza, Pakistan",
+  "description": "Restored fort above Karimabad with views of Rakaposhi.",
+  "price_level": 2,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "fort",
+   "views"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Altit Fort",
+  "destination": "Hunza",
+  "region": "Gilgit-Baltistan",
+  "category": "heritage",
+  "query": "Altit Fort, Hunza, Pakistan",
+  "description": "Older fort and village on a cliff above the Hunza river.",
+  "price_level": 2,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "fort",
+   "village"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Attabad Lake",
+  "destination": "Hunza",
+  "region": "Gilgit-Baltistan",
+  "category": "lakes",
+  "query": "Attabad Lake, Hunza, Pakistan",
+  "description": "Turquoise lake created by a landslide, with boat rides.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "lake",
+   "boating"
+  ],
+  "advisory": "Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Passu Cones",
+  "destination": "Hunza",
+  "region": "Gilgit-Baltistan",
+  "category": "mountains",
+  "query": "Passu Cones, Gojal, Pakistan",
+  "description": "Row of sharp peaks above the Karakoram Highway at Passu.",
+  "price_level": 0,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "peaks",
+   "photography"
+  ],
+  "advisory": "Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Hussaini Suspension Bridge",
+  "destination": "Hunza",
+  "region": "Gilgit-Baltistan",
+  "category": "adventure",
+  "query": "Hussaini Suspension Bridge, Gojal, Pakistan",
+  "description": "Long, narrow rope-and-plank footbridge over the Hunza river.",
+  "price_level": 1,
+  "avg_visit_minutes": 45,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "bridge",
+   "adventure"
+  ],
+  "advisory": "The bridge is in poor repair. Cross only if you are comfortable with heights.",
+  "verified": false
+ },
+ {
+  "name": "Khunjerab Pass",
+  "destination": "Hunza",
+  "region": "Gilgit-Baltistan",
+  "category": "mountains",
+  "query": "Khunjerab Pass, Pakistan",
+  "description": "High mountain border crossing with China, one of the highest paved roads in the world.",
+  "price_level": 1,
+  "avg_visit_minutes": 180,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "border",
+   "high altitude"
+  ],
+  "advisory": "Seasonal. Usually open only in summer. Altitude sickness is possible.",
+  "verified": false
+ },
+ {
+  "name": "Eagle's Nest Viewpoint",
+  "destination": "Hunza",
+  "region": "Gilgit-Baltistan",
+  "category": "mountains",
+  "query": "Eagle's Nest, Duikar, Hunza, Pakistan",
+  "description": "Hilltop viewpoint known for sunrise and sunset over the valley.",
+  "price_level": 1,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Shangrila Resort Lake",
+  "destination": "Skardu",
+  "region": "Gilgit-Baltistan",
+  "category": "lakes",
+  "query": "Shangrila Resort, Lower Kachura Lake, Skardu, Pakistan",
+  "description": "Lakeside resort area also called Lower Kachura Lake.",
+  "price_level": 2,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "lake",
+   "resort"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Upper Kachura Lake",
+  "destination": "Skardu",
+  "region": "Gilgit-Baltistan",
+  "category": "lakes",
+  "query": "Upper Kachura Lake, Skardu, Pakistan",
+  "description": "Clear mountain lake reached by a short hike or jeep track.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "lake",
+   "hike"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Deosai National Park",
+  "destination": "Skardu",
+  "region": "Gilgit-Baltistan",
+  "category": "nature",
+  "query": "Deosai National Park, Pakistan",
+  "description": "High plateau with wildflowers, brown bears and Sheosar Lake.",
+  "price_level": 1,
+  "avg_visit_minutes": 360,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "plateau",
+   "wildlife"
+  ],
+  "advisory": "Open only in summer. Roads are rough and weather changes fast.",
+  "verified": false
+ },
+ {
+  "name": "Shigar Fort",
+  "destination": "Skardu",
+  "region": "Gilgit-Baltistan",
+  "category": "heritage",
+  "query": "Shigar Fort, Shigar, Pakistan",
+  "description": "Seventeenth-century fort restored as a heritage hotel and museum.",
+  "price_level": 2,
+  "avg_visit_minutes": 75,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "fort",
+   "heritage hotel"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Katpana Cold Desert",
+  "destination": "Skardu",
+  "region": "Gilgit-Baltistan",
+  "category": "adventure",
+  "query": "Katpana Cold Desert, Skardu, Pakistan",
+  "description": "High-altitude sand dunes set between snowy peaks.",
+  "price_level": 0,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "desert",
+   "dunes"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Fairy Meadows",
+  "destination": "Gilgit",
+  "region": "Gilgit-Baltistan",
+  "category": "mountains",
+  "query": "Fairy Meadows, Raikot, Pakistan",
+  "description": "Alpine meadow with views of Nanga Parbat, reached by jeep and a hike.",
+  "price_level": 2,
+  "avg_visit_minutes": 480,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "meadow",
+   "hiking",
+   "nanga parbat"
+  ],
+  "advisory": "The jeep track is steep and risky. Use an experienced driver and avoid wet weather.",
+  "verified": false
+ },
+ {
+  "name": "Naltar Valley",
+  "destination": "Gilgit",
+  "region": "Gilgit-Baltistan",
+  "category": "nature",
+  "query": "Naltar Valley, Gilgit, Pakistan",
+  "description": "Forested valley with coloured lakes and a ski area in winter.",
+  "price_level": 2,
+  "avg_visit_minutes": 300,
+  "indoor": false,
+  "best_season": [
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "valley",
+   "lakes"
+  ],
+  "advisory": "Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Kargah Buddha",
+  "destination": "Gilgit",
+  "region": "Gilgit-Baltistan",
+  "category": "heritage",
+  "query": "Kargah Buddha, Gilgit, Pakistan",
+  "description": "Rock carving of a Buddha figure dating to around the seventh century.",
+  "price_level": 0,
+  "avg_visit_minutes": 40,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "buddhist",
+   "carving"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Rakaposhi Viewpoint",
+  "destination": "Gilgit",
+  "region": "Gilgit-Baltistan",
+  "category": "mountains",
+  "query": "Rakaposhi View Point, Nagar, Pakistan",
+  "description": "Roadside viewpoint facing Rakaposhi on the Karakoram Highway.",
+  "price_level": 0,
+  "avg_visit_minutes": 30,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "viewpoint",
+   "peaks"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Kalam Valley",
+  "destination": "Swat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "nature",
+  "query": "Kalam, Swat, Pakistan",
+  "description": "Upper Swat valley with rivers, pine forests and meadows.",
+  "price_level": 1,
+  "avg_visit_minutes": 240,
+  "indoor": false,
+  "best_season": [
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "valley",
+   "river"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Mahodand Lake",
+  "destination": "Swat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "lakes",
+  "query": "Mahodand Lake, Kalam, Pakistan",
+  "description": "Alpine lake above Kalam, reached by a rough jeep track.",
+  "price_level": 1,
+  "avg_visit_minutes": 240,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "lake",
+   "jeep"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Malam Jabba",
+  "destination": "Swat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "adventure",
+  "query": "Malam Jabba, Swat, Pakistan",
+  "description": "Hill resort with a chairlift and ski slope in winter.",
+  "price_level": 2,
+  "avg_visit_minutes": 180,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "ski",
+   "chairlift"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Swat Museum",
+  "destination": "Swat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "museums",
+  "query": "Swat Museum, Saidu Sharif, Pakistan",
+  "description": "Museum of Buddhist art from the Swat valley.",
+  "price_level": 1,
+  "avg_visit_minutes": 60,
+  "indoor": true,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "gandhara",
+   "buddhist"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Fizagat Park",
+  "destination": "Swat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "family",
+  "query": "Fizagat Park, Swat, Pakistan",
+  "description": "Riverside park with picnic areas and a suspension bridge.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "park",
+   "river"
+  ],
+  "advisory": "Check current local security and travel advice before visiting.",
+  "verified": false
+ },
+ {
+  "name": "Bumburet Valley",
+  "destination": "Chitral",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "heritage",
+  "query": "Bumburet, Chitral, Pakistan",
+  "description": "Valley home to the Kalash people, known for festivals and traditional dress.",
+  "price_level": 1,
+  "avg_visit_minutes": 240,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "kalash",
+   "culture"
+  ],
+  "advisory": "Respect local customs and ask before photographing people. Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Chitral Fort",
+  "destination": "Chitral",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "heritage",
+  "query": "Chitral Fort, Chitral, Pakistan",
+  "description": "Old fort beside the Chitral river with a royal mosque nearby.",
+  "price_level": 0,
+  "avg_visit_minutes": 45,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "fort"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Shahi Mosque Chitral",
+  "destination": "Chitral",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "religious",
+  "query": "Shahi Mosque, Chitral, Pakistan",
+  "description": "Early twentieth-century royal mosque with a carved wooden interior.",
+  "price_level": 0,
+  "avg_visit_minutes": 30,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "mosque"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Lake Saiful Muluk",
+  "destination": "Naran Kaghan",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "lakes",
+  "query": "Lake Saif-ul-Muluk, Naran, Pakistan",
+  "description": "Alpine lake below Malika Parbat, reached by jeep from Naran.",
+  "price_level": 1,
+  "avg_visit_minutes": 180,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "lake",
+   "jeep"
+  ],
+  "advisory": "Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Lulusar Lake",
+  "destination": "Naran Kaghan",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "lakes",
+  "query": "Lulusar Lake, Kaghan, Pakistan",
+  "description": "Large lake beside the road to Babusar Top.",
+  "price_level": 0,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "lake",
+   "roadside"
+  ],
+  "advisory": "Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Babusar Top",
+  "destination": "Naran Kaghan",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "mountains",
+  "query": "Babusar Pass, Pakistan",
+  "description": "High pass linking Kaghan to Gilgit-Baltistan.",
+  "price_level": 0,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "pass",
+   "views"
+  ],
+  "advisory": "Open only in summer. Roads close with snow.",
+  "verified": false
+ },
+ {
+  "name": "Shogran",
+  "destination": "Naran Kaghan",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "nature",
+  "query": "Shogran, Kaghan, Pakistan",
+  "description": "Meadow plateau reached by jeep, near Siri and Paye meadows.",
+  "price_level": 1,
+  "avg_visit_minutes": 240,
+  "indoor": false,
+  "best_season": [
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "meadow",
+   "jeep"
+  ],
+  "advisory": "Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Dudipatsar Lake",
+  "destination": "Naran Kaghan",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "lakes",
+  "query": "Dudipatsar Lake, Pakistan",
+  "description": "High lake reached by a long hike from Besal.",
+  "price_level": 0,
+  "avg_visit_minutes": 480,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "lake",
+   "hike"
+  ],
+  "advisory": "Long, demanding hike. Go with a guide and start early.",
+  "verified": false
+ },
+ {
+  "name": "Mall Road Murree",
+  "destination": "Murree & Galyat",
+  "region": "Punjab",
+  "category": "shopping",
+  "query": "Mall Road, Murree, Pakistan",
+  "description": "Main promenade of Murree with shops, cafes and mountain views.",
+  "price_level": 1,
+  "avg_visit_minutes": 90,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "promenade",
+   "cafes"
+  ],
+  "advisory": "Very busy on weekends. Heavy snow can close roads in winter.",
+  "verified": false
+ },
+ {
+  "name": "Patriata New Murree",
+  "destination": "Murree & Galyat",
+  "region": "Punjab",
+  "category": "family",
+  "query": "Patriata, New Murree, Pakistan",
+  "description": "Hill station with a chairlift and cable car.",
+  "price_level": 2,
+  "avg_visit_minutes": 150,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "chairlift",
+   "family"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Nathia Gali",
+  "destination": "Murree & Galyat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "nature",
+  "query": "Nathia Gali, Pakistan",
+  "description": "Pine-covered hill town and a base for walks.",
+  "price_level": 1,
+  "avg_visit_minutes": 180,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "hill station",
+   "walk"
+  ],
+  "advisory": "Heavy snow can close roads in winter.",
+  "verified": false
+ },
+ {
+  "name": "Ayubia National Park",
+  "destination": "Murree & Galyat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "nature",
+  "query": "Ayubia National Park, Pakistan",
+  "description": "Forest park with a chairlift and short trails.",
+  "price_level": 1,
+  "avg_visit_minutes": 150,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "forest",
+   "trail"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Thandiani",
+  "destination": "Murree & Galyat",
+  "region": "Khyber Pakhtunkhwa",
+  "category": "mountains",
+  "query": "Thandiani, Abbottabad, Pakistan",
+  "description": "Hill station with wide views over Abbottabad and the Himalayan foothills.",
+  "price_level": 1,
+  "avg_visit_minutes": 180,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "viewpoint",
+   "hill station"
+  ],
+  "advisory": "Roads can close in bad weather or snow. Check conditions before travelling.",
+  "verified": false
+ },
+ {
+  "name": "Arang Kel",
+  "destination": "Neelum & Muzaffarabad",
+  "region": "Azad Jammu and Kashmir",
+  "category": "nature",
+  "query": "Arang Kel, Neelum Valley, Pakistan",
+  "description": "Village on a ridge, reached by cable car and a short hike.",
+  "price_level": 1,
+  "avg_visit_minutes": 300,
+  "indoor": false,
+  "best_season": [
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "village",
+   "cable car"
+  ],
+  "advisory": "Neelum Valley lies close to the Line of Control. Carry ID and check local travel advice.",
+  "verified": false
+ },
+ {
+  "name": "Ratti Gali Lake",
+  "destination": "Neelum & Muzaffarabad",
+  "region": "Azad Jammu and Kashmir",
+  "category": "lakes",
+  "query": "Ratti Gali Lake, Neelum Valley, Pakistan",
+  "description": "Glacial lake reached by a long hike or jeep and hike.",
+  "price_level": 1,
+  "avg_visit_minutes": 420,
+  "indoor": false,
+  "best_season": [
+   "summer"
+  ],
+  "tags": [
+   "lake",
+   "hike"
+  ],
+  "advisory": "Neelum Valley lies close to the Line of Control. Carry ID and check local travel advice.",
+  "verified": false
+ },
+ {
+  "name": "Red Fort Muzaffarabad",
+  "destination": "Neelum & Muzaffarabad",
+  "region": "Azad Jammu and Kashmir",
+  "category": "heritage",
+  "query": "Red Fort, Muzaffarabad, Pakistan",
+  "description": "Seventeenth-century fort on the Neelum river.",
+  "price_level": 0,
+  "avg_visit_minutes": 60,
+  "indoor": false,
+  "best_season": [
+   "winter",
+   "spring",
+   "autumn"
+  ],
+  "tags": [
+   "fort",
+   "river"
+  ],
+  "advisory": null,
+  "verified": false
+ },
+ {
+  "name": "Pir Chinasi",
+  "destination": "Neelum & Muzaffarabad",
+  "region": "Azad Jammu and Kashmir",
+  "category": "religious",
+  "query": "Pir Chinasi, Muzaffarabad, Pakistan",
+  "description": "Hilltop shrine and viewpoint above Muzaffarabad.",
+  "price_level": 0,
+  "avg_visit_minutes": 120,
+  "indoor": false,
+  "best_season": [
+   "spring",
+   "summer",
+   "autumn"
+  ],
+  "tags": [
+   "shrine",
+   "viewpoint"
+  ],
+  "advisory": null,
+  "verified": false
+ }
+]

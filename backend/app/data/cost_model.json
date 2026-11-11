@@ -1,0 +1,10 @@
+{
+  "note": "Planning estimates in PKR, not quotes. Edit these numbers to match current prices.",
+  "accommodation_per_room_night": { "budget": 4000, "mid": 10000, "premium": 25000 },
+  "food_per_person_day": { "budget": 2000, "mid": 4000, "premium": 8000 },
+  "transport_per_vehicle_day": { "budget": 3000, "mid": 6000, "premium": 12000 },
+  "entry_per_person_by_price_level": { "0": 0, "1": 500, "2": 1500, "3": 4000 },
+  "people_per_room": 2,
+  "people_per_vehicle": 4,
+  "uncertainty": 0.25
+}
